@@ -77,8 +77,7 @@ Find The Customer Who Has Spent The Most On Music For Each Country. Return Each 
 
 #### DATA OVERVIEW :-
 
-![](TEMPLATES/schema_diagramL.png) 
-
+![](TEMPLATES/schema_diagram.png) 
 
 
 #### CONCLUSION :-
